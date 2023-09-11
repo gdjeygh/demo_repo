@@ -1,6 +1,4 @@
 # demo_repo
-<h1>GitHub</h1>
-This is my first repo in github,i'm very exited.
+This is my first repository in github.
 <br>
-
-auther - Loknath Roy
+Auther - Loknath Roy
